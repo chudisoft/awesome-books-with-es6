@@ -83,7 +83,7 @@ It also allows the student to showcase what they can do to the future employee.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> This Project is deployed at https://chudisoft.github.io/Awesome-Books/
+> This Project is deployed at https://chudisoft.github.io/awesome-books-with-es6/
 
 <!-- - [Live Demo Link](https://google.com) -->
 
@@ -115,8 +115,8 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  git clone git@github.com:chudisoft/awesome-books.git
-  cd awesome-books
+  git clone git@github.com:chudisoft/awesome-books-with-es6.git
+  cd awesome-books-with-es6
   code .
 ```
 -
@@ -155,17 +155,6 @@ your server.
 - GitHub: [@githubhandle](https://github.com/chudisoft)
 - Twitter: [@twitterhandle](https://twitter.com/chrisuduekwe)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/christopher-uduekwe)
-
-👤 **Fatima Najafi**
-
-- GitHub: [@githubhandle](https://github.com/fatima-najafi)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/fatima-najafi-75424a23a/)
-
-👤 **Faisal**
-
-- GitHub: [@githubhandle](https://github.com/faisalakb)
-- Twitter: [@twitterhandle](https://twitter.com/Faisalakb786)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/faisal-mumtaz-514a221a6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
